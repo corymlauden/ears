@@ -17,6 +17,6 @@ It never diagnoses. Ears won't tell you something is wrong with your hearing or 
 
 ## Status
 
-Launching in the App Store in November 2026. Built with feedback from beta testers in the cochlear implant community.
+In external beta on TestFlight as of November 2026, with testers from the cochlear implant community.
 
 The code is private. This page says what Ears is.
